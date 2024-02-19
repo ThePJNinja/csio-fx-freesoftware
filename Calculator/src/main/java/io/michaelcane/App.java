@@ -5,8 +5,8 @@ package io.michaelcane;
  * functions that make this Calculator possible.
  */
 public class App {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 
-        Calculator calculator = new Calculator();
-    }
+		Calculator calculator = new Calculator();
+	}
 }
